@@ -1,22 +1,22 @@
-# E-Commerce---Business-Analytics
-Interactive Power BI dashboard analyzing Shopee sales performance in Brazil 
+# E-commerce Sales Performance Dashboard
+Interactive Power BI dashboard analyzing Shopee sales performance across regions, categories, and customer segments, with a focus on Brazil and Latin America.
 
-## 🎯 Shopee Business Analytics Dashboard
+## 🎯 Project Overview
 
-This project presents an interactive **Power BI dashboard** that analyzes sales performance across products, categories, regions, and time. The goal is to help stakeholders monitor KPIs, uncover meaningful patterns in customer behavior, product performance, financial trends and uncover improvement opportunities in an e-commerce business.
+This project presents a professional **Power BI dashboard** analyzing Shopee’s e-commerce sales performance. The objective is to deliver executive-level insights into customer demographics, product performance, financial trends, and regional sales dynamics — supporting strategic decision-making in a highly competitive market.
 
 ## 📌 Objectives:
 
-- Segment and analyze customer demographics to identify high-value audiences
-- Evaluate top-performing products and average order behavior
-- Assess revenue generation and tax contribution across categories and countries
-- Provide interactive dashboards to support executive decision-making
+- Segment customer demographics to identify high-value groups
+- Analyze top-performing products and purchasing behavior
+- Assess revenue and tax contribution by category and country
+- Deliver an interactive dashboard for real-time KPI monitoring
 
-## 🧰 Tools Used
+## 🧰 Tools & Technologies
 
-- **Power BI** for interactive visualizations and DAX calculations
-- **Excel** for data preparation and transformation
-- **DAX** for custom measures and KPIs
+- **Power BI** – for data modeling and dashboard development  
+- **Excel** – for data preprocessing and cleaning  
+- **DAX** – for custom KPIs and calculated metrics  
 
 ## 📈 Dashboard Preview
 
@@ -25,19 +25,20 @@ This project presents an interactive **Power BI dashboard** that analyzes sales 
 ![Project 4 1 - E-Commerce - Power bi_Page_3](https://github.com/user-attachments/assets/82049356-8794-4b6a-b817-e814c398f5e8)
 
 
-## 🚀 Insights Highlighted
+## 🚀 Key Insights
 
-- Although Brazil counted for the highest average of income per person, it did not contribute highly in regard to revenue.
-- On the other hand, Colombia comes third in terms of the average income, but had the highest revenue and quantity ordered.
-- Top 10 products account for over 65% of total revenue.
-- Consistent revenue growth with peaks in [January, May and October].
-- Countries like [Colombia and Chile] contribute higher tax rate. 
+- 🇧🇷 Although Brazil had the **highest average income per person**, it contributed **less revenue** than expected.
+- 🇨🇴 Colombia, with a mid-level average income, had the **highest revenue and order quantity**.
+- 🛒 The **top 10 products** accounted for over **65% of total revenue**.
+- 📊 Revenue saw seasonal **peaks in January, May, and October**.
+- 💰 Countries like **Colombia and Chile** applied **higher tax rates**, influencing profitability.
 
-##  💡 Strategic recommendation
 
-- **Customer Targeting**: Focus on 20–35 age group and high-income segments for marketing.
-- **Product Strategy**: Promote top 10 products and bundle with underperforming ones.
-- **Pricing and Tax**: Explore tax-efficient pricing for high-revenue, low-tax items.
+##  💡 Strategic recommendations
+
+- 🎯 **Customer Targeting**: Focus marketing on the **20–35 age group** with higher income brackets.
+- 📦 **Product Strategy**: Promote top 10 products and consider bundling them with underperformers.
+- 💸 **Tax-Efficient Pricing**: Adjust pricing models for **high-revenue, low-tax** products and regions.
 
 
 ## 📪 Contact 
@@ -45,8 +46,9 @@ This project presents an interactive **Power BI dashboard** that analyzes sales 
   📧 ibrahim.bindawod@gmail.com
 
 
+---
 
->> “Great dashboards don’t just show data — they tell stories that drive decisions.”
+> “Great dashboards don’t just show data — they tell stories that drive decisions.”
 
 
 
